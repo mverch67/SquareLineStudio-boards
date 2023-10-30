@@ -1,6 +1,6 @@
 <h1 align="center">SquareLine Studio boards for PlatformIO</h1>
 <div align="center">
-  <img src="./CreatePlatformIO-Project.png">
+  <img src="./project.png">
 </div>
 <br>
 <br>
