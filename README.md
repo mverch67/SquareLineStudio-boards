@@ -19,7 +19,7 @@ $HOME/SquareLine/boards/
 1. Launch SquareLine Studio, choose **Create** and select **PlatformIO**
 2. Now you see all available PlatformIO based projects (as in the screenshot above, currently only for _lovyanGFX_).
 3. Choose _VSCode with lovyanGFX_ when you have devices with TFT screen, such as WT32-SC01 Plus, T-Deck, T-Watch S3, Heltec-Tracker.
-4. Enter a name for the new project
+4. Enter a project description and a name for the new project. Attention: do not use any special characters for the name, except *underscore*.
 5. Create a new directory for this project and select it.
 6. Enter the display dimensions of the device. Note: only landscape is currently pre-configured. Leave _rotation_ and _offset_ as they are.
 7. Select LVGL version and theme (light/dark)
